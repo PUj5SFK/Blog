@@ -1,1 +1,0 @@
-prompt("how are you",'')
